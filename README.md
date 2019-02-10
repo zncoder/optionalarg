@@ -1,3 +1,5 @@
+[![GoDoc](https://godoc.org/github.com/zncoder/optionalarg?status.svg)](https://godoc.org/github.com/zncoder/optionalarg)
+
 # optionalarg
 Optionalarg provides a convenient way to pass optional arguments. It
 is a light-weight way to define options.
